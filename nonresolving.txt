@@ -58,3 +58,6 @@
 0.0.0.0 mactronic.com.ua
 0.0.0.0 mehyf87b.com
 0.0.0.0 ruujvymhqqyvvf.iyapliemouiltie.info
+0.0.0.0 minfo.xyz
+0.0.0.0 mcltre.com
+0.0.0.0 mehyf87b.com
