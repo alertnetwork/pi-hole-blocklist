@@ -79,4 +79,4 @@ exposong.com
 lifestylebright.net
 termideas.com
 viralbuilding.com
-karpaty.com.ua
+0.0.0.0 karpaty.com.ua
