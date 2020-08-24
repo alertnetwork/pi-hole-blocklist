@@ -16,7 +16,7 @@ gehnabychandana.com
 0.0.0.0 allianz.my
 0.0.0.0 ispapi.net
 0.0.0.0 pratamacapital.biz
-0.0.0.0 super-host.pl
+super-host.pl
 0.0.0.0 transitolivrems.com.br
 0.0.0.0 chpromotora.com.br
 0.0.0.0 efiteko.com
