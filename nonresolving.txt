@@ -1,9 +1,9 @@
-0.0.0.0 imagineprojectionsystems.com
-0.0.0.0 motomanianet.it
-0.0.0.0 iggyyugoandsam.com
-0.0.0.0 emailsrvr.com
-0.0.0.0 globalprevencao.com.br
-0.0.0.0 gehnabychandana.com
+imagineprojectionsystems.com
+motomanianet.it
+iggyyugoandsam.com
+emailsrvr.com
+globalprevencao.com.br
+gehnabychandana.com
 0.0.0.0 qslf.org
 0.0.0.0 mailserver.ns36.de
 0.0.0.0 sobigmedia.com
@@ -64,7 +64,7 @@ betterwayworkshops.com
 cablevisionfibertel.com.ar
 bestel.com.mx
 neustar.biz
-0.0.0.0 fastvps.online
+fastvps.online
 thermomixideas.com
 aroundhouse.club
 forcesshape.com
@@ -78,4 +78,5 @@ exposong.com
 lifestylebright.net
 termideas.com
 viralbuilding.com
-0.0.0.0 karpaty.com.ua
+karpaty.com.ua
+adaptivecss.org
