@@ -1,0 +1,1192 @@
+# [baidu.com]
+0.0.0.0 a.baidu.com
+0.0.0.0 adm.baidu.com
+0.0.0.0 afd.baidu.com
+0.0.0.0 als.baidu.com
+0.0.0.0 anquan.baidu.com
+0.0.0.0 antivirus.baidu.com
+0.0.0.0 dl2.bav.baidu.com
+0.0.0.0 download.bav.baidu.com
+0.0.0.0 bce.baidu.com
+0.0.0.0 idm.bce.baidu.com
+0.0.0.0 bdplus.baidu.com
+0.0.0.0 click.bes.baidu.com
+0.0.0.0 dlsw.br.baidu.com
+0.0.0.0 j.br.baidu.com
+0.0.0.0 bzclk.baidu.com
+0.0.0.0 cb.baidu.com
+0.0.0.0 cbjs.baidu.com
+0.0.0.0 cpro.baidu.com
+0.0.0.0 s.cpro.baidu.com
+0.0.0.0 cpu.baidu.com
+0.0.0.0 crab.baidu.com
+0.0.0.0 crs.baidu.com
+0.0.0.0 datax.baidu.com
+0.0.0.0 dj1.baidu.com
+0.0.0.0 duclick.baidu.com
+0.0.0.0 dxp.baidu.com
+0.0.0.0 e.baidu.com
+0.0.0.0 eclick.baidu.com
+0.0.0.0 eiv.baidu.com
+0.0.0.0 entry.baidu.com
+0.0.0.0 ers.baidu.com
+0.0.0.0 feed.baidu.com
+0.0.0.0 g.baidu.com
+0.0.0.0 w.gdown.baidu.com
+0.0.0.0 gsp1.baidu.com
+0.0.0.0 hdj.baidu.com
+0.0.0.0 hm.baidu.com
+0.0.0.0 click.hm.baidu.com
+0.0.0.0 log.hm.baidu.com
+0.0.0.0 hmma.baidu.com
+0.0.0.0 hpd.baidu.com
+0.0.0.0 idm-su.baidu.com
+0.0.0.0 imageplus.baidu.com
+0.0.0.0 conf.international.baidu.com
+0.0.0.0 kstj.baidu.com
+0.0.0.0 loc.map.baidu.com
+0.0.0.0 ofloc.map.baidu.com
+0.0.0.0 mobads.baidu.com
+0.0.0.0 mobads-logs.baidu.com
+0.0.0.0 mobile-global.baidu.com
+0.0.0.0 s.mobile-global.baidu.com
+0.0.0.0 plugin.mobopay.baidu.com
+0.0.0.0 msc.baidu.com
+0.0.0.0 mscbos.baidu.com
+0.0.0.0 msite.baidu.com
+0.0.0.0 mssp.baidu.com
+0.0.0.0 nlog.baidu.com
+0.0.0.0 nsclick.baidu.com
+0.0.0.0 nsclickvideo.baidu.com
+0.0.0.0 openrcv.baidu.com
+0.0.0.0 paimgcdn.baidu.com
+0.0.0.0 update.pan.baidu.com
+0.0.0.0 pos.baidu.com
+0.0.0.0 cm.pos.baidu.com
+0.0.0.0 wn.pos.baidu.com
+0.0.0.0 statsonline.pushct.baidu.com
+0.0.0.0 rj.baidu.com
+0.0.0.0 rplog.baidu.com
+0.0.0.0 static.safe.baidu.com
+0.0.0.0 udc.safe.baidu.com
+0.0.0.0 sclick.baidu.com
+0.0.0.0 sestat.baidu.com
+0.0.0.0 shadu.baidu.com
+0.0.0.0 share.baidu.com
+0.0.0.0 api.share.baidu.com
+0.0.0.0 bdimg.share.baidu.com
+0.0.0.0 sp1.baidu.com
+0.0.0.0 static.tieba.baidu.com
+0.0.0.0 usp1.baidu.com
+0.0.0.0 stat.v.baidu.com
+0.0.0.0 pc.videoclick.baidu.com
+0.0.0.0 w.x.baidu.com
+
+# [baidustatic.com]
+0.0.0.0 baidustatic.com
+0.0.0.0 ubmcmm.baidustatic.com
+
+# [bango.net]
+0.0.0.0 bango.net
+
+# [bannerads.co.in]
+0.0.0.0 bannerads.co.in
+
+# [bannerbank.ru]
+0.0.0.0 bannerbank.ru
+
+# [bannersnack.com]
+0.0.0.0 bannersnack.com
+0.0.0.0 cdn.bannersnack.com
+0.0.0.0 stats.bannersnack.com
+
+# [barrapunto.com]
+0.0.0.0 adserver.barrapunto.com
+
+# [basepush.com]
+0.0.0.0 basepush.com
+
+# [batch.com]
+0.0.0.0 ws.batch.com
+
+# [batmobi.net]
+0.0.0.0 ac.batmobi.net
+0.0.0.0 api2.batmobi.net
+0.0.0.0 api5.batmobi.net
+0.0.0.0 cdn.batmobi.net
+0.0.0.0 dsp.batmobi.net
+0.0.0.0 mcdn.batmobi.net
+0.0.0.0 ng001.batmobi.net
+0.0.0.0 oscdn.batmobi.net
+0.0.0.0 sts.batmobi.net
+
+# [batmobil.net]
+0.0.0.0 batmobil.net
+0.0.0.0 dsp.batmobil.net
+
+# [batmobile.com.tw]
+0.0.0.0 analytics.batmobile.com.tw
+
+# [bayctrk.com]
+0.0.0.0 bayctrk.com
+
+# [bazaarvoice.com]
+0.0.0.0 apps.nexus.bazaarvoice.com
+0.0.0.0 analytics-static.ugc.bazaarvoice.com
+
+# [bbcverticals.com]
+0.0.0.0 flagpoles.gnl-live.bbcverticals.com
+
+# [bcfads.com]
+0.0.0.0 bcfads.com
+
+# [beaconforstore.com]
+0.0.0.0 api.beaconforstore.com
+
+# [beaconsinspace.com]
+0.0.0.0 api.beaconsinspace.com
+
+# [beaconstreetservices.com]
+0.0.0.0 api.beaconstreetservices.com
+
+# [beanstalkdata.com]
+0.0.0.0 t.beanstalkdata.com
+0.0.0.0 t2.beanstalkdata.com
+
+# [bee7.com]
+0.0.0.0 api.bee7.com
+
+# [bepolite.eu]
+0.0.0.0 bepolite.eu
+
+# [besguses.pro]
+0.0.0.0 besguses.pro
+
+# [bestbuy.com]
+0.0.0.0 smetrics.bestbuy.com
+
+# [betrad.com]
+0.0.0.0 c.betrad.com
+
+# [betweendigital.com]
+0.0.0.0 ads.betweendigital.com
+
+# [bfmio.com]
+0.0.0.0 crid.bfmio.com
+0.0.0.0 display.bfmio.com
+0.0.0.0 evt.bfmio.com
+0.0.0.0 evtvpaid.bfmio.com
+0.0.0.0 io-cdn.bfmio.com
+0.0.0.0 ioms.bfmio.com
+0.0.0.0 moat.bfmio.com
+0.0.0.0 reachms.bfmio.com
+0.0.0.0 sync.bfmio.com
+0.0.0.0 useast.bfmio.com
+0.0.0.0 uswest.bfmio.com
+
+# [bgrndi.com]
+0.0.0.0 bgrndi.com
+
+# [bidadx.com]
+0.0.0.0 bidadx.com
+0.0.0.0 cdn.bidadx.com
+
+# [biddingx.com]
+0.0.0.0 biddingx.com
+0.0.0.0 ana.biddingx.com
+0.0.0.0 whisky.ana.biddingx.com
+0.0.0.0 stuff.cdn.biddingx.com
+0.0.0.0 hkbj.biddingx.com
+0.0.0.0 masky.biddingx.com
+0.0.0.0 ana.masky.biddingx.com
+0.0.0.0 cm.masky.biddingx.com
+0.0.0.0 w.masky.biddingx.com
+
+# [bidgear.com]
+0.0.0.0 demand.bidgear.com
+0.0.0.0 imp-dsp.bidgear.com
+0.0.0.0 source.bidgear.com
+0.0.0.0 vn-platform.bidgear.com
+
+# [bidmotion.com]
+0.0.0.0 sdk-data.nv.prod.bidmotion.com
+0.0.0.0 sdk-ads.bidmotion.com
+0.0.0.0 sdk-data.bidmotion.com
+
+# [bidr.io]
+0.0.0.0 match.prod.bidr.io
+0.0.0.0 segment.prod.bidr.io
+
+# [bidsopt.com]
+0.0.0.0 bidsopt.com
+0.0.0.0 eu-win.bidsopt.com
+0.0.0.0 imp.bidsopt.com
+0.0.0.0 us-win.bidsopt.com
+
+# [bidtellect.com]
+0.0.0.0 europe.bidtellect.com
+0.0.0.0 api.europe.bidtellect.com
+0.0.0.0 west.bidtellect.com
+0.0.0.0 api.west.bidtellect.com
+
+# [bigfishgames.com]
+0.0.0.0 gdn.bigfishgames.com
+
+# [bing.com]
+0.0.0.0 bat.bing.com
+
+# [bitcheese.net]
+0.0.0.0 bitcheese.net
+
+# [bitmango.com]
+0.0.0.0 a.bitmango.com
+0.0.0.0 api.bitmango.com
+
+# [bitmedianetwork.com]
+0.0.0.0 bitmedianetwork.com
+
+# [bizible.com]
+0.0.0.0 cdn.bizible.com
+0.0.0.0 sf.bizible.com
+
+# [bizweb.vn]
+0.0.0.0 stats.bizweb.vn
+
+# [bj1110.online]
+0.0.0.0 bj1110.online
+
+# [bkav.com]
+0.0.0.0 analytics.bkav.com
+
+# [bkav.com.vn]
+0.0.0.0 analytics.bkav.com.vn
+
+# [bksn.se]
+0.0.0.0 us.bksn.se
+
+# [bkswin.com]
+0.0.0.0 mopub-win-us-east.bkswin.com
+
+# [black6adv.com]
+0.0.0.0 black6adv.com
+
+# [blinkreceipt.com]
+0.0.0.0 licensing.blinkreceipt.com
+
+# [blismedia.com]
+0.0.0.0 tr.blismedia.com
+
+# [bluebillywig.com]
+0.0.0.0 stats.bluebillywig.com
+0.0.0.0 vms.bluebillywig.com
+
+# [bluecava.com]
+0.0.0.0 bluecava.com
+0.0.0.0 ads.bluecava.com
+0.0.0.0 sync.graph.gcloud.bluecava.com
+0.0.0.0 sync.graph.geo.bluecava.com
+0.0.0.0 sync.graph.bluecava.com
+
+# [blueconic.com]
+0.0.0.0 dfdsseaways.blueconic.com
+0.0.0.0 wpg.blueconic.com
+
+# [blueconic.net]
+0.0.0.0 blueconic.net
+0.0.0.0 cdn.blueconic.net
+
+# [bluecore.com]
+0.0.0.0 api.bluecore.com
+
+# [bluekai.com]
+0.0.0.0 bluekai.com
+0.0.0.0 analytics.bluekai.com
+0.0.0.0 o.bluekai.com
+0.0.0.0 stags.bluekai.com
+0.0.0.0 tags.bluekai.com
+
+# [bluelithium.com]
+0.0.0.0 bluelithium.com
+0.0.0.0 ads.bluelithium.com
+
+# [blueoxtech.com]
+0.0.0.0 analytics.blueoxtech.com
+0.0.0.0 blizzard.blueoxtech.com
+0.0.0.0 hobbes.blueoxtech.com
+
+# [blueserving.com]
+0.0.0.0 blueserving.com
+0.0.0.0 d.blueserving.com
+
+# [bm23.com]
+0.0.0.0 app.bm23.com
+0.0.0.0 em.bm23.com
+0.0.0.0 hosting-source.bm23.com
+0.0.0.0 incoming.bm23.com
+0.0.0.0 marketlive2.bm23.com
+
+# [bm324.com]
+0.0.0.0 b.bm324.com
+0.0.0.0 f.bm324.com
+
+# [bncnt.com]
+0.0.0.0 track-core.bncnt.com
+
+# [bnmla.com]
+0.0.0.0 bnmla.com
+
+# [bodyclick.net]
+0.0.0.0 bodyclick.net
+
+# [bokecc.com]
+0.0.0.0 p.bokecc.com
+
+# [boomtrain.com]
+0.0.0.0 cdn.boomtrain.com
+
+# [boostads.co]
+0.0.0.0 p.boostads.co
+
+# [boostads.net]
+0.0.0.0 boostads.net
+
+# [boostbox.com.br]
+0.0.0.0 banner.boostbox.com.br
+
+# [boostmobile.com]
+0.0.0.0 metrics.boostmobile.com
+
+# [boston.com]
+0.0.0.0 smetrics.boston.com
+
+# [bounceexchange.com]
+0.0.0.0 api.bounceexchange.com
+0.0.0.0 cnn.bounceexchange.com
+0.0.0.0 core.bounceexchange.com
+0.0.0.0 pixel.bounceexchange.com
+0.0.0.0 tag.bounceexchange.com
+
+# [brainhi.com]
+0.0.0.0 sdk.brainhi.com
+
+# [brainient.com]
+0.0.0.0 brainient.com
+0.0.0.0 tag.brainient.com
+
+# [brainsins.com]
+0.0.0.0 recommender.brainsins.com
+
+# [braintreegateway.com]
+
+# [branch.io]
+0.0.0.0 branch.io
+0.0.0.0 api2.branch.io
+0.0.0.0 cdn.branch.io
+0.0.0.0 vulcan.branch.io
+
+# [brand.net]
+0.0.0.0 ads.brand.net
+
+# [brandify.com]
+0.0.0.0 api.brandify.com
+0.0.0.0 collector.brandify.com
+
+# [braze.com]
+0.0.0.0 andromeda.iad-01.braze.com
+0.0.0.0 ibilisk.iad-01.braze.com
+0.0.0.0 indus.iad-01.braze.com
+0.0.0.0 muliphein.iad-01.braze.com
+0.0.0.0 rest.iad-01.braze.com
+0.0.0.0 sagittarius.iad-01.braze.com
+0.0.0.0 sdk.iad-01.braze.com
+0.0.0.0 serpens.iad-01.braze.com
+0.0.0.0 vela.iad-01.braze.com
+0.0.0.0 gudja.iad-02.braze.com
+0.0.0.0 himbrecha.iad-02.braze.com
+0.0.0.0 sdk.iad-02.braze.com
+0.0.0.0 alya.iad-03.braze.com
+0.0.0.0 atlas.iad-03.braze.com
+0.0.0.0 belgikanst.iad-03.braze.com
+0.0.0.0 birigum.iad-03.braze.com
+0.0.0.0 blucher.iad-03.braze.com
+0.0.0.0 bond.iad-03.braze.com
+0.0.0.0 caesar.iad-03.braze.com
+0.0.0.0 carinus.iad-03.braze.com
+0.0.0.0 ceres.iad-03.braze.com
+0.0.0.0 cetus.iad-03.braze.com
+0.0.0.0 clair.iad-03.braze.com
+0.0.0.0 cursa.iad-03.braze.com
+0.0.0.0 customer.iad-03.braze.com
+0.0.0.0 daviik.iad-03.braze.com
+0.0.0.0 epsilon.iad-03.braze.com
+0.0.0.0 erulus.iad-03.braze.com
+0.0.0.0 gaspra.iad-03.braze.com
+0.0.0.0 giausar.iad-03.braze.com
+0.0.0.0 hassaleh.iad-03.braze.com
+0.0.0.0 hiram.iad-03.braze.com
+0.0.0.0 hubert.iad-03.braze.com
+0.0.0.0 ibis.iad-03.braze.com
+0.0.0.0 inari.iad-03.braze.com
+0.0.0.0 inferna.iad-03.braze.com
+0.0.0.0 izar.iad-03.braze.com
+0.0.0.0 lalande.iad-03.braze.com
+0.0.0.0 lignon.iad-03.braze.com
+0.0.0.0 mag.iad-03.braze.com
+0.0.0.0 markab.iad-03.braze.com
+0.0.0.0 mondarigloo.iad-03.braze.com
+0.0.0.0 moyo.iad-03.braze.com
+0.0.0.0 nabina.iad-03.braze.com
+0.0.0.0 pali.iad-03.braze.com
+0.0.0.0 phillateemis.iad-03.braze.com
+0.0.0.0 rastaban.iad-03.braze.com
+0.0.0.0 regor.iad-03.braze.com
+0.0.0.0 rest.iad-03.braze.com
+0.0.0.0 rhea.iad-03.braze.com
+0.0.0.0 rotanev.iad-03.braze.com
+0.0.0.0 ruba.iad-03.braze.com
+0.0.0.0 sagan.iad-03.braze.com
+0.0.0.0 sargas.iad-03.braze.com
+0.0.0.0 sdk.iad-03.braze.com
+0.0.0.0 segin.iad-03.braze.com
+0.0.0.0 seginus.iad-03.braze.com
+0.0.0.0 sirius.iad-03.braze.com
+0.0.0.0 skai.iad-03.braze.com
+0.0.0.0 spica.iad-03.braze.com
+0.0.0.0 talar.iad-03.braze.com
+0.0.0.0 tali.iad-03.braze.com
+0.0.0.0 taukibreez.iad-03.braze.com
+0.0.0.0 timbol.iad-03.braze.com
+0.0.0.0 wahacondrax.iad-03.braze.com
+0.0.0.0 wurren.iad-03.braze.com
+0.0.0.0 xenon.iad-03.braze.com
+0.0.0.0 yildun.iad-03.braze.com
+0.0.0.0 nashira.iad-06.braze.com
+0.0.0.0 sdk.iad-08.braze.com
+
+# [braze.eu]
+0.0.0.0 sdk.fra-01.braze.eu
+
+# [brealtime.com]
+0.0.0.0 brealtime.com
+0.0.0.0 biddr.brealtime.com
+0.0.0.0 biddr-cloud.brealtime.com
+0.0.0.0 cookie.brealtime.com
+0.0.0.0 gif.brealtime.com
+0.0.0.0 realbid.brealtime.com
+0.0.0.0 select.brealtime.com
+
+# [bricknet.com]
+0.0.0.0 analytics-prod-ingress.bricknet.com
+
+# [bridgebase.com]
+0.0.0.0 ads.bridgebase.com
+0.0.0.0 adserver.bridgebase.com
+
+# [bridgetrack.com]
+0.0.0.0 ads.bridgetrack.com
+0.0.0.0 ads-uat.bridgetrack.com
+0.0.0.0 sec-ads.bridgetrack.com
+0.0.0.0 sec-citi.bridgetrack.com
+
+# [brightcove.com]
+0.0.0.0 metrics.brightcove.com
+
+# [brightroll.com]
+0.0.0.0 brightroll.com
+
+# [browsiprod.com]
+0.0.0.0 events.browsiprod.com
+0.0.0.0 yield-manager.browsiprod.com
+
+# [brucelead.com]
+0.0.0.0 notify1.brucelead.com
+0.0.0.0 tr4ck.brucelead.com
+0.0.0.0 tr5ck.brucelead.com
+0.0.0.0 tr8ck.brucelead.com
+0.0.0.0 track.brucelead.com
+
+# [bsbportal.com]
+
+# [bsclink.cn]
+0.0.0.0 sdk.appadhoc.com.bsclink.cn
+
+# [btncdn.com]
+0.0.0.0 web.btncdn.com
+
+# [btrll.com]
+0.0.0.0 btrll.com
+
+# [bttn.io]
+0.0.0.0 bttn.io
+
+# [bttrack.com]
+0.0.0.0 api.bttrack.com
+
+# [bubblesmedia.ru]
+0.0.0.0 bubblesmedia.ru
+
+# [bugfender.com]
+0.0.0.0 api.bugfender.com
+0.0.0.0 app.bugfender.com
+
+# [bughd.com]
+0.0.0.0 collector.bughd.com
+
+# [bugreplay.com]
+0.0.0.0 app.bugreplay.com
+
+# [bugsee.com]
+0.0.0.0 api.bugsee.com
+
+# [bugsense.com]
+0.0.0.0 bugsense.com
+0.0.0.0 alt.bugsense.com
+0.0.0.0 ticks2.bugsense.com
+
+# [bulldogcpi.com]
+0.0.0.0 ads.bulldogcpi.com
+
+# [burstnet.com]
+0.0.0.0 burstnet.com
+
+# [businessinsider.com]
+0.0.0.0 geoip.businessinsider.com
+
+# [buysellads.com]
+0.0.0.0 srv.buysellads.com
+0.0.0.0 stats.buysellads.com
+
+# [buysellads.net]
+0.0.0.0 cdn4.buysellads.net
+
+# [buyt.in]
+0.0.0.0 ctl.buyt.in
+
+# [buzzcity.net]
+0.0.0.0 buzzcity.net
+
+# [buzzurl.jp]
+0.0.0.0 buzzurl.jp
+
+# [bypass.jp]
+0.0.0.0 bypass.jp
+
+# [bytedns.net]
+0.0.0.0 isub.snssdk.com.bytedns.net
+0.0.0.0 log.snssdk.com.bytedns.net
+0.0.0.0 open.snssdk.com.bytedns.net
+
+# [c1exchange.com]
+0.0.0.0 c1exchange.com
+0.0.0.0 sync.c1exchange.com
+
+# [c3tag.com]
+0.0.0.0 ct.c3tag.com
+
+# [c8.net.ua]
+0.0.0.0 c8.net.ua
+
+# [cachefly.net]
+0.0.0.0 flurry.cachefly.net
+
+# [camera360.com]
+0.0.0.0 appres.camera360.com
+
+# [capitalone.com]
+0.0.0.0 m-metrics.capitalone.com
+
+# [caprofitx.com]
+0.0.0.0 ad.caprofitx.com
+0.0.0.0 cdn.caprofitx.com
+
+# [captifymedia.com]
+0.0.0.0 ads.captifymedia.com
+0.0.0.0 gws.captifymedia.com
+0.0.0.0 rd.captifymedia.com
+
+# [capturly.com]
+0.0.0.0 collector.capturly.com
+
+# [carambo.la]
+0.0.0.0 carambo.la
+0.0.0.0 analytics.carambo.la
+0.0.0.0 pixel.carambo.la
+
+# [cardlytics.com]
+0.0.0.0 beacontest.cardlytics.com
+0.0.0.0 epiv.cardlytics.com
+
+# [carnivalmobile.com]
+0.0.0.0 devices.carnivalmobile.com
+
+# [carrier.com]
+0.0.0.0 coremetrics.carrier.com
+
+# [casalemedia.com]
+0.0.0.0 a1726.casalemedia.com
+0.0.0.0 amp.casalemedia.com
+0.0.0.0 as.casalemedia.com
+0.0.0.0 as-sec.casalemedia.com
+0.0.0.0 dsum.casalemedia.com
+0.0.0.0 dsum-sec.casalemedia.com
+0.0.0.0 ht.casalemedia.com
+0.0.0.0 ht-lb.casalemedia.com
+0.0.0.0 ht-lb-sec.casalemedia.com
+0.0.0.0 js.casalemedia.com
+0.0.0.0 js-sec.casalemedia.com
+0.0.0.0 r.casalemedia.com
+0.0.0.0 ssum.casalemedia.com
+0.0.0.0 ssum-sec.casalemedia.com
+0.0.0.0 system.casalemedia.com
+
+# [castplatform.com]
+0.0.0.0 castplatform.com
+
+# [cauly.co.kr]
+0.0.0.0 ad.cauly.co.kr
+
+# [cbx.net]
+0.0.0.0 cbx.net
+
+# [ccgateway.net]
+0.0.0.0 ccgateway.net
+0.0.0.0 ads.ccgateway.net
+0.0.0.0 analytics.ccgateway.net
+
+# [cdn-image.com]
+0.0.0.0 cdn-image.com
+
+# [cdn-us-doubleverify.com]
+0.0.0.0 tracker.cdn-us-doubleverify.com
+
+# [cdn7.rocks]
+0.0.0.0 cdn7.rocks
+
+# [cdnads.com]
+0.0.0.0 pads.cdnads.com
+0.0.0.0 perf.cdnads.com
+
+# [cdnstoremedia.com]
+0.0.0.0 cdnstoremedia.com
+
+# [cdnwidget.com]
+0.0.0.0 cdnwidget.com
+0.0.0.0 ids.cdnwidget.com
+0.0.0.0 pixel.cdnwidget.com
+0.0.0.0 u.cdnwidget.com
+
+# [cedexis-radar.net]
+0.0.0.0 cedexis-radar.net
+
+# [cedexis.com]
+0.0.0.0 cedexis.com
+0.0.0.0 radar.cedexis.com
+
+# [celltick.com]
+0.0.0.0 celltick.com
+
+# [celtra.com]
+0.0.0.0 celtra.com
+0.0.0.0 ads.celtra.com
+0.0.0.0 audiences.celtra.com
+0.0.0.0 cache.celtra.com
+0.0.0.0 cache-ssl.celtra.com
+0.0.0.0 cdn.celtra.com
+0.0.0.0 geo.celtra.com
+0.0.0.0 track.celtra.com
+
+# [chango.com]
+0.0.0.0 chango.com
+0.0.0.0 as.chango.com
+0.0.0.0 blackhole.chango.com
+
+# [chanret.com]
+0.0.0.0 track.chanret.com
+
+# [chargeads.com]
+0.0.0.0 ads.chargeads.com
+
+# [chartbeat.com]
+0.0.0.0 api.chartbeat.com
+0.0.0.0 dashapi.chartbeat.com
+0.0.0.0 mab.chartbeat.com
+0.0.0.0 static.chartbeat.com
+0.0.0.0 static-uk.chartbeat.com
+0.0.0.0 static2.chartbeat.com
+
+# [chartbeat.net]
+0.0.0.0 mabping.chartbeat.net
+0.0.0.0 pdeltatre.chartbeat.net
+0.0.0.0 pdev.chartbeat.net
+0.0.0.0 pespn.chartbeat.net
+0.0.0.0 ping.chartbeat.net
+0.0.0.0 pnytimes.chartbeat.net
+0.0.0.0 ptimeinc.chartbeat.net
+
+# [chartboost.com]
+0.0.0.0 a.chartboost.com
+0.0.0.0 a2.chartboost.com
+0.0.0.0 a3.chartboost.com
+0.0.0.0 live.chartboost.com
+0.0.0.0 popcorn.chartboost.com
+0.0.0.0 ssp-events.chartboost.com
+0.0.0.0 t.chartboost.com
+0.0.0.0 t2.chartboost.com
+0.0.0.0 t3.chartboost.com
+0.0.0.0 tracking.chartboost.com
+0.0.0.0 v.chartboost.com
+0.0.0.0 v2.chartboost.com
+0.0.0.0 v5.chartboost.com
+0.0.0.0 www.chartboost.com
+
+# [chartboosts.com]
+0.0.0.0 chartboosts.com
+0.0.0.0 ads.chartboosts.com
+0.0.0.0 adtrack.chartboosts.com
+0.0.0.0 analysis2.chartboosts.com
+0.0.0.0 gameanalysis.chartboosts.com
+0.0.0.0 other.chartboosts.com
+0.0.0.0 remain.chartboosts.com
+
+# [chitika.com]
+0.0.0.0 chitika.com
+
+# [chrysler.com]
+0.0.0.0 smetrics.chrysler.com
+
+# [cibleclick.com]
+0.0.0.0 cibleclick.com
+
+# [cinarra.com]
+0.0.0.0 jp.cinarra.com
+0.0.0.0 p-jp-cci-dps.cinarra.com
+0.0.0.0 p-jp-elb-inmobi.cinarra.com
+
+# [cint.com]
+0.0.0.0 collector.cint.com
+0.0.0.0 qps.cint.com
+
+# [cintnetworks.com]
+0.0.0.0 c.cintnetworks.com
+
+# [circularhub.com]
+0.0.0.0 api.circularhub.com
+
+# [cision.com]
+0.0.0.0 app.cision.com
+0.0.0.0 prapi.cision.com
+0.0.0.0 pt.cision.com
+
+# [cityads.ru]
+0.0.0.0 cityads.ru
+
+# [citygrid.com]
+0.0.0.0 citygrid.com
+
+# [civicscience.com]
+0.0.0.0 pilot.civicscience.com
+
+# [cj.com]
+0.0.0.0 tracking-ams5.cj.com
+0.0.0.0 tracking-dc6.cj.com
+0.0.0.0 tracking-sj2.cj.com
+
+# [clean.gg]
+0.0.0.0 i.clean.gg
+
+# [clevernt.com]
+0.0.0.0 report.clevernt.com
+0.0.0.0 sender.clevernt.com
+
+# [cleverpush.com]
+0.0.0.0 api.cleverpush.com
+0.0.0.0 bffmetercom.cleverpush.com
+0.0.0.0 derwesten.cleverpush.com
+0.0.0.0 geoip-api.cleverpush.com
+0.0.0.0 immonetlive.cleverpush.com
+0.0.0.0 kurierat.cleverpush.com
+0.0.0.0 naturheilkunde.cleverpush.com
+0.0.0.0 pushtillon.cleverpush.com
+0.0.0.0 secretosite.cleverpush.com
+0.0.0.0 static.cleverpush.com
+0.0.0.0 t3n.cleverpush.com
+0.0.0.0 touch-heresite.cleverpush.com
+0.0.0.0 tvspielfilm.cleverpush.com
+0.0.0.0 waz.cleverpush.com
+
+# [clevertap.com]
+0.0.0.0 api.clevertap.com
+0.0.0.0 static.clevertap.com
+
+# [clickability.com]
+0.0.0.0 govtech-c.clickability.com
+
+# [clickagy.com]
+0.0.0.0 aorta.clickagy.com
+0.0.0.0 i.clickagy.com
+0.0.0.0 tags.clickagy.com
+
+# [clickbooth.com]
+0.0.0.0 track.clickbooth.com
+
+# [clickdimensions.com]
+0.0.0.0 analytics.clickdimensions.com
+0.0.0.0 analytics-au.clickdimensions.com
+0.0.0.0 analytics-eu.clickdimensions.com
+
+# [clickfuse.com]
+0.0.0.0 clickfuse.com
+0.0.0.0 cdn.clickfuse.com
+
+# [clickhubs.com]
+0.0.0.0 clickhubs.com
+0.0.0.0 subat.clickhubs.com
+0.0.0.0 subtrack.clickhubs.com
+0.0.0.0 track.clickhubs.com
+
+# [clickinc.com]
+0.0.0.0 impression.clickinc.com
+
+# [clickintext.net]
+0.0.0.0 tags.clickintext.net
+
+# [clickkydsp.com]
+0.0.0.0 clickkydsp.com
+
+# [clickmeter.com]
+0.0.0.0 cnvrsns.clickmeter.com
+0.0.0.0 gye.clickmeter.com
+0.0.0.0 newre-conversions.clickmeter.com
+
+# [clickon.co.il]
+0.0.0.0 track.clickon.co.il
+
+# [clickpathmedia.com]
+0.0.0.0 analyticssl.clickpathmedia.com
+
+# [clicktale.net]
+0.0.0.0 cdnssl.clicktale.net
+
+# [clickterra.net]
+0.0.0.0 clickterra.net
+
+# [clicktracks.com]
+0.0.0.0 stats.clicktracks.com
+
+# [clickyab.com]
+0.0.0.0 a.clickyab.com
+0.0.0.0 app.clickyab.com
+0.0.0.0 demand.clickyab.com
+0.0.0.0 native.clickyab.com
+0.0.0.0 static.clickyab.com
+0.0.0.0 supplier.clickyab.com
+0.0.0.0 t.clickyab.com
+
+# [clinch.co]
+0.0.0.0 realtime.clinch.co
+0.0.0.0 trk.clinch.co
+
+# [clipbongda.info]
+0.0.0.0 clipbongda.info
+
+# [cliphub.io]
+0.0.0.0 an.cliphub.io
+0.0.0.0 metric.cliphub.io
+
+# [cliphub.net]
+0.0.0.0 an.cliphub.net
+
+# [clixsense.com]
+0.0.0.0 addon.clixsense.com
+
+# [clkads.com]
+0.0.0.0 clkads.com
+
+# [clkdeals.com]
+0.0.0.0 clkdeals.com
+
+# [clksite.com]
+0.0.0.0 cdn1.clksite.com
+0.0.0.0 p01234.clksite.com
+0.0.0.0 p25433.clksite.com
+0.0.0.0 p46140.clksite.com
+
+# [clmbtech.com]
+0.0.0.0 ade.clmbtech.com
+
+# [cloud-elements.com]
+0.0.0.0 g2c.cloud-elements.com
+
+# [cloudapp.net]
+0.0.0.0 ailoganalyticsportal-eus.cloudapp.net
+0.0.0.0 bi-analytics.cloudapp.net
+
+# [clouddn.com]
+0.0.0.0 bkt.clouddn.com
+
+# [cloudflarebolt.com]
+0.0.0.0 metrics.cloudflarebolt.com
+
+# [cloudfunctions.net]
+0.0.0.0 us-central1-eyewind-ads.cloudfunctions.net
+
+# [cloudmade.com]
+0.0.0.0 leaflet.cloudmade.com
+
+# [cloudmobi.net]
+0.0.0.0 cloudmobi.net
+
+# [cluep.com]
+0.0.0.0 cas.cluep.com
+
+# [cmcm.com]
+0.0.0.0 lcf.cmplay.cmcm.com
+0.0.0.0 cmpload.cmcm.com
+0.0.0.0 magic.cmcm.com
+0.0.0.0 ms.cmcm.com
+0.0.0.0 tealand.cmcm.com
+0.0.0.0 tileswan.cmcm.com
+
+# [cmcore.com]
+0.0.0.0 cmcore.com
+
+# [cmgdigital.com]
+0.0.0.0 ads-live.cmgdigital.com
+0.0.0.0 adtrack.cmgdigital.com
+0.0.0.0 appconfig.cmgdigital.com
+0.0.0.0 cmgfeeds.cmgdigital.com
+0.0.0.0 lsp-prod.cmgdigital.com
+0.0.0.0 media-ncd.cmgdigital.com
+
+# [cmtelematics.com]
+0.0.0.0 mobile.cmtelematics.com
+0.0.0.0 mobile-dgig-prod.cmtelematics.com
+0.0.0.0 mobile-log.cmtelematics.com
+0.0.0.0 mobile-log-dgig.cmtelematics.com
+
+# [cn.com]
+0.0.0.0 id1.cn.com
+
+# [cnn.com]
+0.0.0.0 agility.cnn.com
+0.0.0.0 mms.cnn.com
+0.0.0.0 sdc.cnn.com
+0.0.0.0 smetrics.cnn.com
+
+# [cnt.my]
+0.0.0.0 cnt.my
+
+# [cnt.re]
+0.0.0.0 log.cnt.re
+
+# [cobrowser.com]
+0.0.0.0 app.cobrowser.com
+
+# [cocamobile.com]
+0.0.0.0 msg.cocamobile.com
+
+# [coccoc.com]
+0.0.0.0 cdn-qc.coccoc.com
+0.0.0.0 cdn.comedia.coccoc.com
+0.0.0.0 metrics.coccoc.com
+0.0.0.0 nt-cdn.coccoc.com
+0.0.0.0 qc.coccoc.com
+0.0.0.0 catalog.qc.coccoc.com
+0.0.0.0 context.qc.coccoc.com
+0.0.0.0 display.qc.coccoc.com
+0.0.0.0 ntrb.qc.coccoc.com
+0.0.0.0 qc-static.coccoc.com
+
+# [cognitivlabs.com]
+0.0.0.0 lynx.cognitivlabs.com
+0.0.0.0 beacon.lynx.cognitivlabs.com
+
+# [cogocast.net]
+0.0.0.0 ads.cogocast.net
+0.0.0.0 tag.cogocast.net
+
+# [coinad.com]
+0.0.0.0 cdn.coinad.com
+
+# [collabollc.com]
+0.0.0.0 sdk.collabollc.com
+
+# [collserve.com]
+0.0.0.0 ww1.collserve.com
+
+# [com.com]
+0.0.0.0 cloudwaysapps.com.com
+0.0.0.0 hao123.com.com
+0.0.0.0 ioeursdjh.com.com
+0.0.0.0 kladovonet.com.com
+0.0.0.0 mk-auth.com.com
+
+# [comboapp.com]
+0.0.0.0 comboapp.com
+0.0.0.0 track.comboapp.com
+
+# [commander1.com]
+0.0.0.0 privacy.commander1.com
+
+# [company-target.com]
+0.0.0.0 company-target.com
+0.0.0.0 segments.company-target.com
+
+# [comscore.com]
+0.0.0.0 images.comscore.com
+0.0.0.0 my.comscore.com
+0.0.0.0 mymetrix.comscore.com
+0.0.0.0 siterecruit.comscore.com
+
+# [comscoredatamine.com]
+0.0.0.0 comscoredatamine.com
+
+# [comscoreresearch.com]
+0.0.0.0 comscoreresearch.com
+
+# [concert.io]
+0.0.0.0 concert.io
+0.0.0.0 cdn.concert.io
+
+# [conductrics.com]
+0.0.0.0 api-de-v3.conductrics.com
+0.0.0.0 cdn-cbc-v3.conductrics.com
+0.0.0.0 cdn-v3.conductrics.com
+
+# [congstar.de]
+0.0.0.0 banner.congstar.de
+
+# [connatix.com]
+0.0.0.0 cd.connatix.com
+0.0.0.0 cds.connatix.com
+
+# [connectad.io]
+0.0.0.0 i.connectad.io
+
+# [connecto.io]
+0.0.0.0 api.connecto.io
+
+# [connexity.com]
+0.0.0.0 noclick.connexity.com
+
+# [consensad.com]
+0.0.0.0 a.consensad.com
+
+# [consensu.org]
+0.0.0.0 cookies.onetrust.mgr.consensu.org
+0.0.0.0 vendorlist.consensu.org
+
+# [consoliads.com]
+0.0.0.0 sdk.consoliads.com
+
+# [constintptr.com]
+0.0.0.0 constintptr.com
+
+# [content.ad]
+0.0.0.0 content.ad
+0.0.0.0 api.content.ad
+
+# [contentabc.com]
+0.0.0.0 contentabc.com
+0.0.0.0 ads.contentabc.com
+0.0.0.0 cdn11.contentabc.com
+
+# [contentfeed.net]
+0.0.0.0 banners.contentfeed.net
+
+# [contentstream.pl]
+0.0.0.0 contentstream.pl
+
+# [contextweb.com]
+0.0.0.0 ads.contextweb.com
+0.0.0.0 bh.contextweb.com
+0.0.0.0 bid.contextweb.com
+0.0.0.0 lga-tr.contextweb.com
+0.0.0.0 tag-st.contextweb.com
+
+# [contineljs.com]
+0.0.0.0 contineljs.com
+
+# [converge-digital.com]
+0.0.0.0 ads.converge-digital.com
+
+# [conviva.com]
+0.0.0.0 a6709203f34992a5095d2bc7ceaf2ec504f651a8.cws.conviva.com
+0.0.0.0 cws-cctv.conviva.com
+0.0.0.0 cws-eu.conviva.com
+0.0.0.0 cws-eu-west-1.conviva.com
+0.0.0.0 cws-hulu.conviva.com
+0.0.0.0 cws-iad1.conviva.com
+0.0.0.0 cws-lgi.conviva.com
+0.0.0.0 cws-us-east.conviva.com
+0.0.0.0 cws-us-west-2.conviva.com
+0.0.0.0 cws-usw2.conviva.com
+0.0.0.0 dl.conviva.com
+0.0.0.0 livepass.conviva.com
+0.0.0.0 livepassdl-global.conviva.com
+0.0.0.0 livepassdl2.conviva.com
+0.0.0.0 pings.conviva.com
+
+# [coremetrics.com]
+0.0.0.0 coremetrics.com
+0.0.0.0 data.coremetrics.com
+
+# [corevm.com]
+0.0.0.0 locator1.corevm.com
+0.0.0.0 locatorpp.corevm.com
+
+# [coronalabs.com]
+0.0.0.0 monetize-api.coronalabs.com
+0.0.0.0 stats.coronalabs.com
+
+# [count.ly]
+0.0.0.0 count.ly
+
+# [cox.com]
+0.0.0.0 smetrics.cox.com
+
+# [cpmstar.com]
+0.0.0.0 cpmstar.com
+
+# [cpx.to]
+0.0.0.0 cpx.to
+
+# [cqlupb.com]
+0.0.0.0 cqlupb.com
+
+# [cr-nielsen.com]
+0.0.0.0 piq.cr-nielsen.com
+0.0.0.0 t.cr-nielsen.com
+
+# [crasheye.cn]
+0.0.0.0 crasheye.cn
+
+# [crashlytics.com]
+0.0.0.0 api.crashlytics.com
+0.0.0.0 cm.crashlytics.com
+0.0.0.0 e.crashlytics.com
+0.0.0.0 firebase-settings.crashlytics.com
+0.0.0.0 kits.crashlytics.com
+0.0.0.0 reports.crashlytics.com
+0.0.0.0 settings.crashlytics.com
+
+# [crazyegg.com]
+0.0.0.0 sample-api-v2.crazyegg.com
+0.0.0.0 script.crazyegg.com
+
+# [creative-mobile.com]
+0.0.0.0 analytics-ingest.creative-mobile.com
+
+# [creative-serving.com]
+0.0.0.0 ads.creative-serving.com
+
+# [crispadvertising.com]
+0.0.0.0 crispadvertising.com
+0.0.0.0 ads.crispadvertising.com
+0.0.0.0 api.crispadvertising.com
+0.0.0.0 cdn4.crispadvertising.com
+0.0.0.0 cdn7.crispadvertising.com
+0.0.0.0 cdn8.crispadvertising.com
+0.0.0.0 dts.crispadvertising.com
+0.0.0.0 pls.crispadvertising.com
+0.0.0.0 trk.crispadvertising.com
