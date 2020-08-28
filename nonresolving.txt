@@ -157,3 +157,5 @@ mx1.fishby.com
 #28-08-2020
 poczta.pkga.jp
 remote.ninjou.fi
+newmail.lilko.ru
+mx5.iphmx.com
